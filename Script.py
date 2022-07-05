@@ -1,12 +1,12 @@
 class script(object):
     START_TXT = """Hello {} 👨‍💻,
-My Name is <a href='https://t.me/MR_Filter2bot'>MR FILTER BOT 2</a>
+My Name is <a href='https://t.me/MR_FilterProbot'>MR FILTER BOT 2</a>
 I Can Provide Movies In Telegram Groups. You Can Search Movies Via Inline. I Can Also Add Filters In Telegram Groups.
 Just Add Me To Your Group And Enjoy Of All Available Movies On TG.
 Made With ❤ BY @MR_OTT_Tamil2"""
     HELP_TXT = """Hell'O {}
 Here is the Help For My Bot Commands."""
-    ABOUT_TXT = """☞ My Name: MR FILTER BOT 2
+    ABOUT_TXT = """☞ My Name: MR FILTER PRO
 ☞ Developer: @RafiqCreationz
 ☞ Library: Pyrogram
 ☞ Language: Python 3
