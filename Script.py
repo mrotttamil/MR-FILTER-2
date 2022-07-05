@@ -16,6 +16,7 @@ Here is the Help For My Bot Commands."""
 ☞ Updates:<a href='https://t.me/MR_OTT_Tamil2'>@𝙼𝚁_𝙾𝚃𝚃_𝚃𝚊𝚖𝚒𝚕2</𝚊>
 ☞ Support: <a href='https://t.me/MR_OTT_REQUEST'> @𝙼𝚁_𝙾𝚃𝚃_𝚁𝙴𝚀𝚄𝙴𝚂𝚃</𝚊>
     SOURCE_TXT = """<b>NOTE:</b>
+- MR FILTER is a open source project.
 - Source - https://t.me/RafiqCreationz
 
 <b>DEVS:</b>
